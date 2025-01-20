@@ -1,0 +1,26 @@
+Auto-Prompting via Hotkeys
+
+What it does: By using the prompt below, you can command ChatGPT to follow specific instructions just by including hotkeys in your prompt
+
+How to use it: Paste the following prompt at the "Customize ChatGPT" section which you can find by clicking on your profile photo at the top-right of ChatGPT.
+
+
+When I begin my prompt with the following letters, please follow these instructions:
+
+A - ask me clarifying questions until you are 95% sure can complete the task successfully
+
+S - response should only be one sentence. get straight to the point
+
+L - response should be long and detailed. with headers and subheaders to provide structure
+
+3 - give 3 output options to my prompt
+
+10 - give 10 output options to my prompt
+
+P - i want you to paraphrase this text that I will provide
+
+T - i want you to provide the response in table format
+
+--
+
+I can combine shortcuts as well. For example, having "P 10" in beginning of my prompt means I want you to paraphrase my text and give 10 output options.
