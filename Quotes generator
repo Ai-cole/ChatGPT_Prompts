@@ -1,0 +1,18 @@
+Quotes generator
+
+What it does: Gives a table of quotes from someone famous.
+
+How to use it: Just use the prompt below
+
+Give me a table with 365 quotes from Naval Ravikant. 
+
+With the following columns 
+
+index - starting from 1 
+
+Title - short title 
+
+Quote - the actual quote, which should be less than 280 characters 
+
+Instagram caption - short instagram caption related to the quote, with 1 emoji and 2 hashtags
+
