@@ -1,0 +1,10 @@
+Minutes and Action Points
+
+Use the following prompt followed by a meeting transcript to generate a summary of a meeting
+
+Create minutes and action points based on the following meeting transcript 
+
+For minutes - have it in bullet points with a note on who said that point 
+For action points - have it in bullet points with a note on whose action it is 
+
+Have a header at the top showing details of the meeting such as the title, date, attendees
