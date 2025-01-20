@@ -1,0 +1,15 @@
+Data Analyst, from Excel to PPT
+
+What it does: Upload an Excel file and watch ChatGPT create some Powerpoint slides from insights within the data in the excel
+
+How to use it: Just upload the excel and use the prompt below
+
+You are a Data Analyst with 20 years experience 
+
+-Suggest 3 insights based on the data of this excel 
+
+-For each of those insights, create a powerpoint slide (1920x1080px aspect ratio) that will have a professionally designed chart and a headline at the top to summarise the insight you found 
+
+
+
+Your output should be a downloadable link to the powerpoint slides
